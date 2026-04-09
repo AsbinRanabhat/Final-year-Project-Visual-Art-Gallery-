@@ -1,0 +1,14 @@
+Use case: precise-object-edit
+Asset type: login page background image
+Primary request: remove all visible text from the wall art pieces and the small text sign on the right wall; keep the artwork panels as clean, solid-color/painted blocks with no lettering; preserve the room, perspective, lighting, and floor; subtly refine the image for a clean, professional background.
+Input images: Image 1: edit target
+Scene/backdrop: contemporary gallery room with left wall covered in small square art panels and a blank right wall, wooden floor
+Subject: the gallery room and wall-mounted panels
+Style/medium: photorealistic photo
+Composition/framing: wide room view, left wall receding, right wall open space
+Lighting/mood: warm gallery spotlights, soft and inviting
+Color palette: keep original warm wood and varied panel colors
+Materials/textures: retain wall paint and wood floor texture
+Text (verbatim): ""
+Constraints: remove only text content; keep panel sizes, positions, colors, floorboards, ceiling lights unchanged; no new objects; no watermark
+Avoid: any readable text, logos, or extra objects
